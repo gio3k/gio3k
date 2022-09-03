@@ -7,14 +7,14 @@ __bold=$(tput bold)
 
 # script:
 # the below stars might not show up for you (for me they work in the terminal but not in nano!)
-echo
+printf "\n"
 echo "⭐️ gio's profile! ⭐️ ======================================= ⭐️"
 echo "🏃🏾 ${__bold}about me${__reset}:         he/him; excitable programmer"
 echo "🌎 ${__bold}location${__reset}:         Australia/Perth (AWST, +0800)"
 echo "📖 ${__bold}current projects${__reset}: usbselfserial, DarwinPrint"
 echo "📖 ${__bold}known languages${__reset}:  C++, C, Java, C#, JS, TS, HTML, CSS, Python, PHP, Bash"
 echo "📖 ${__bold}contact${__reset}:          lotuspar0@gmail.com"
-echo
+printf "\n"
 
 # save more details to /tmp/gio.txt
 echo "saving more details to /tmp/gio.txt..."
