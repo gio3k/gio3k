@@ -17,7 +17,7 @@ done!
 ```
 $ cat /tmp/gio.txt > /dev/github
 ```
-I'm a 17-year-old university student currently residing in Perth, Western Australia. I started coding when I was given a copy of Visual Studio 2005 on DVD at 6 years old. Since then, I've been programming for fun as a hobby (well, really the main thing I do). Feel free to check out the projects I’m working on!
+I'm an 18-year-old university student currently residing in Perth, Western Australia. I started coding at 6 years old, and since then I've been programming for fun as a hobby my whole life. Feel free to check out the projects I’m working on!
 ```
 $ rm info.sh /tmp/gio.txt
 $ exit
