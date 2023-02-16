@@ -7,7 +7,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/lotuspar/lotuspar
 ⭐️ gio's profile! ⭐️ ======================================= ⭐️
 🏃🏾 <b>about me</b>:         he/him; excitable programmer
 🌎 <b>location</b>:         Australia/Perth (AWST, +0800)
-📖 <b>current projects</b>: DarwinPrint, multiple S&box projects
+📖 <b>current projects</b>: DarwinPrint, multiple s&box projects
 📖 <b>known languages</b>:  C++, C, Java, C#, JS, TS, HTML, CSS, Python, PHP, Bash
 📖 <b>contact</b>:          lotuspar0@gmail.com
 
