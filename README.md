@@ -1,5 +1,4 @@
 ### ⭐️ *@lotuspar* - Hi, I'm Gio!
-📧 You can email me at lotuspar0@gmail.com \
 <pre>
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/lotuspar/lotuspar/main/info.sh)"
 
