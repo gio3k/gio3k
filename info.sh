@@ -13,7 +13,7 @@ echo "🏃🏾 ${__bold}about me${__reset}:         he/him; excitable programmer
 echo "🌎 ${__bold}location${__reset}:         Australia/Perth (AWST, +0800)"
 echo "📖 ${__bold}current projects${__reset}: DarwinPrint, multiple s&box projects"
 # echo "📖 ${__bold}known languages${__reset}:  C++, C, Java, C#, JS, TS, HTML, CSS, Python, PHP, Bash"
-echo "📖 ${__bold}contact${__reset}:          lotuspar0@gmail.com"
+echo "📖 ${__bold}contact${__reset}:          me@gio.blue"
 echo " "
 
 # save more details to /tmp/gio.txt
