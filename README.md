@@ -6,7 +6,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/lotuspar/lotuspar
 🏃🏾 <b>about me</b>:         he/him; excitable programmer
 🌎 <b>location</b>:         Australia/Perth (AWST, +0800)
 📖 <b>current projects</b>: DarwinPrint, multiple s&box projects
-📖 <b>contact</b>:          lotuspar0@gmail.com
+📖 <b>contact</b>:          me@gio.blue
 
 saving more details to /tmp/gio.txt...
 done!
