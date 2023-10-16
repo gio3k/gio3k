@@ -1,6 +1,6 @@
 ### ⭐️ *@gio3k* - Hi, I'm Gio!
 <pre>
-$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/lotuspar/lotuspar/main/info.sh)"
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/gio3k/gio3k/main/info.sh)"
 
 ⭐️ gio's profile! ⭐️ ======================================= ⭐️
 🏃🏾 <b>about me</b>:         he/him; excitable programmer
