@@ -1,4 +1,4 @@
-### ⭐️ *@lotuspar* - Hi, I'm Gio!
+### ⭐️ *@gio3k* - Hi, I'm Gio!
 <pre>
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/lotuspar/lotuspar/main/info.sh)"
 
