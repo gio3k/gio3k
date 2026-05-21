@@ -4,7 +4,7 @@
 
 ## recent projects
 
-### ARM64 / device porting
+### arm64 / handhelds / device porting
 - helped port Linux to the Ayn Odin 3 (Snapdragon 8 Elite)
   - see [my kernel tree](https://github.com/gio3k/linux/tree/v6.19-rc6-odin3) for initial bringup
   - see PR: [SM8750: Add support for the Ayn Odin 3 and SM8750 platform](https://github.com/ROCKNIX/distribution/pull/2613) for ROCKNIX
